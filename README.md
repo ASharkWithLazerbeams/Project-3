@@ -6,6 +6,10 @@ MongoDB
 Express.js
 React.js
 Node.js
+
+# Screenshot
+https://github.com/joshuaramat/movie-dashboard/blob/main/client/public/Screenshot.jpg
+
 # Link:
 https://blooming-stream-54961.herokuapp.com/
 
