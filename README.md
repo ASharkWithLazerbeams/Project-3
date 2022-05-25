@@ -8,7 +8,7 @@ React.js
 Node.js
 
 # Screenshot
-https://github.com/joshuaramat/movie-dashboard/blob/main/client/public/Screenshot.jpg
+![Screenshot](https://user-images.githubusercontent.com/79181304/170164288-e65590f8-1a7a-4399-9981-8ca436f50bac.jpeg)
 
 # Link:
 https://blooming-stream-54961.herokuapp.com/
